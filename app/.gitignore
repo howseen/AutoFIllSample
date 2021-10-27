@@ -1,1 +1,11 @@
 /build
+
+
+#Builds
+*.apk
+
+#Manifest mergers
+manifest-merger-*
+
+#Proguard
+mapping.txt
